@@ -1,0 +1,111 @@
+{
+        id: '30b642bd-7591-49f4-ac30-5c538f975b15',
+        title:
+          'Sehwag shares his batting experience in iB Cricket | iB Cricket Super Over League',
+        thumbnailUrl:
+          'https://assets.ccbp.in/frontend/react-js/nxt-watch/ibc-sol-1-img.png',
+        channel: {
+          name: 'iB Cricket',
+          profileImageUrl:
+            'https://assets.ccbp.in/frontend/react-js/nxt-watch/ib-cricket-img.png',
+        },
+        view_count: '1.4K',
+        publishedAt: 'Apr 19, 2019',
+      },
+      {
+        id: '30b042bd-7591-49f4-ac30-5c538f975b15',
+        title:
+          'Sehwag shares his batting experience in iB Cricket | iB Cricket Super Over League',
+        thumbnailUrl:
+          'https://assets.ccbp.in/frontend/react-js/nxt-watch/ibc-sol-1-img.png',
+        channel: {
+          name: 'iB Cricket',
+          profileImageUrl:
+            'https://assets.ccbp.in/frontend/react-js/nxt-watch/ib-cricket-img.png',
+        },
+        view_count: '1.4K',
+        publishedAt: 'Apr 19, 2019',
+      },
+      {
+        id: '30b642bd-7591-49h4-ac30-5c538f975b15',
+        title:
+          'Sehwag shares his batting experience in iB Cricket | iB Cricket Super Over League',
+        thumbnailUrl:
+          'https://assets.ccbp.in/frontend/react-js/nxt-watch/ibc-sol-1-img.png',
+        channel: {
+          name: 'iB Cricket',
+          profileImageUrl:
+            'https://assets.ccbp.in/frontend/react-js/nxt-watch/ib-cricket-img.png',
+        },
+        view_count: '1.4K',
+        publishedAt: 'Apr 19, 2019',
+      },
+      {
+        id: '302642bd-7591-49f4-ac30-5c538f975b15',
+        title:
+          'Sehwag shares his batting experience in iB Cricket | iB Cricket Super Over League',
+        thumbnailUrl:
+          'https://assets.ccbp.in/frontend/react-js/nxt-watch/ibc-sol-1-img.png',
+        channel: {
+          name: 'iB Cricket',
+          profileImageUrl:
+            'https://assets.ccbp.in/frontend/react-js/nxt-watch/ib-cricket-img.png',
+        },
+        view_count: '1.4K',
+        publishedAt: 'Apr 19, 2019',
+      },
+      {
+        id: '30b642bd-7591-49f4-ac30-5c538f075b15',
+        title:
+          'Sehwag shares his batting experience in iB Cricket | iB Cricket Super Over League',
+        thumbnailUrl:
+          'https://assets.ccbp.in/frontend/react-js/nxt-watch/ibc-sol-1-img.png',
+        channel: {
+          name: 'iB Cricket',
+          profileImageUrl:
+            'https://assets.ccbp.in/frontend/react-js/nxt-watch/ib-cricket-img.png',
+        },
+        view_count: '1.4K',
+        publishedAt: 'Apr 19, 2019',
+      },
+      {
+        id: '30b642bd-7593-49f4-ac30-5c538f975b15',
+        title:
+          'Sehwag shares his batting experience in iB Cricket | iB Cricket Super Over League',
+        thumbnailUrl:
+          'https://assets.ccbp.in/frontend/react-js/nxt-watch/ibc-sol-1-img.png',
+        channel: {
+          name: 'iB Cricket',
+          profileImageUrl:
+            'https://assets.ccbp.in/frontend/react-js/nxt-watch/ib-cricket-img.png',
+        },
+        view_count: '1.4K',
+        publishedAt: 'Apr 19, 2019',
+      },
+
+
+
+
+
+
+      
+        <TrendingVideosUlContainer>
+          {videosList.map(eachItem => (
+            <VideoCard
+              key={eachItem.id}
+              videoDetails={eachItem}
+              isDark={isDark}
+            />
+          ))}
+        </TrendingVideosUlContainer>
+
+
+
+
+        https://assets.ccbp.in/frontend/react-js/nxt-watch/hill-climb-racing-img.png"
+title
+: 
+"Hill Climb Racing"
+viewCount
+: 
+"34K"
