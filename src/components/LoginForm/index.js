@@ -106,21 +106,21 @@ class LoginForm extends Component {
                   <InputContainer isDarkModeEnabled={isDarkModeEnabled}>
                     <InputLabel htmlFor="userName">USERNAME</InputLabel>
                     <InputElement
+                      placeholder="rahul"
                       value={usernameInput}
                       id="userName"
                       type="text"
-                      placeholder="Username"
                       onChange={this.onChangeUserName}
                     />
                   </InputContainer>
                   <InputContainer isDarkModeEnabled={isDarkModeEnabled}>
                     <InputLabel htmlFor="password">PASSWORD</InputLabel>
                     <InputElement
+                      placeholder="rahul@2021"
                       onChange={this.onChangePassword}
                       value={userPassword}
                       type={showPassword ? 'text' : 'password'}
                       id="password"
-                      placeholder="Password"
                     />
                   </InputContainer>
                   <ShowPasswordContaner>
